@@ -10,7 +10,7 @@ const int ledPin    = 9;    // LED 핀
 const int buzzerPin = 10;   // 피에조 스피커 핀
 
 // 온도 / 조도 기준값 (실험하면서 조절)
-const double TEMP_THRESHOLD  = 25.0;  // 25도 이상이면 덥다고 판단 (섭씨)
+const double TEMP_THRESHOLD  = 28.0;  // 28도 이상이면 덥다고 판단 (섭씨)
 const int    LIGHT_THRESHOLD = 750;   // 이 값보다 작으면 어둡다고 판단 (ADC 값)
 
 // LED 깜빡임용
