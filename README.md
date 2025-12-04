@@ -217,3 +217,8 @@ void handleClient() {
 ```
 
 ### App Inventor 블록
+<img width="250" height="141" alt="App1" src="https://github.com/user-attachments/assets/ad665541-0cf4-4495-b9d0-7ec455bbad00" />
+
+<img width="298" height="354" alt="App2" src="https://github.com/user-attachments/assets/fd449646-7559-4475-9843-c70bd24c442e" />
+
+<img width="298" height="182" alt="App3" src="https://github.com/user-attachments/assets/0edc12f0-1e76-4e72-883e-355c5d2fb267" />
